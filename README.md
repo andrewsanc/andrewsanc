@@ -6,7 +6,7 @@
 - 📫 How to reach me: druu831@gmail.com
 - ⚡ Fun fact: I have a Mini-Bull Terrier 🐶
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsanc)](https://github.com/andrewsanc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsanc&show_icons=true&theme=tokyonight)](https://github.com/andrewsanc/github-readme-stats)
 
 <!--
 **andrewsanc/andrewsanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
