@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my React Apps
-- 🌱 I’m currently learning Full-Stack development
-- 💬 Ask me about React
+- 🌱 I’m currently learning NextJS and BE development
 - 📫 How to reach me: druu831@gmail.com
 - ⚡ Fun fact: I have a Mini-Bull Terrier 🐶
 
